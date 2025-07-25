@@ -41,7 +41,7 @@ The project is built using the following tools and libraries:
 * **Pandas & NumPy** – Data manipulation and numerical computations
 * **Scikit-learn** – Model building and evaluation
 * **Matplotlib / Seaborn** – Data visualization
-* **Jupyter Notebook** – Exploratory data analysis and experimentation
+* **Goggle Colab** – Exploratory data analysis and experimentation
 * **Streamlit** – Deployment of the interactive web app
 * **Joblib** – Model serialization and saving
 * **GitHub** – Version control and code repository
